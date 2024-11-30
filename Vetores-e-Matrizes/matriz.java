@@ -1,6 +1,5 @@
 class Main{
     public static void main(String[] args) {
-        int valor;
         //informando que tem 5 espaços
         int[][] dados = new int[3][3];
 

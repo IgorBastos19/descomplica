@@ -1,13 +1,14 @@
 //Soma de Números: Peça ao usuário para inserir um número e some todos os números de 1 até esse número.
 import java.util.Scanner;
 
-public class Main {
+public class ex2 {
     public static void main(String[] args) {
 
         int x = 0;
         System.out.println("Digite um numero");
         Scanner entrada = new Scanner(System.in);
         x = entrada.nextInt();
+        
 
         int soma = 0;
 

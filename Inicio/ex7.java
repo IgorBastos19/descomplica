@@ -1,7 +1,7 @@
 //Soma de Números Pares: Peça ao usuário um número e some todos os números pares até esse número.
 import java.util.Scanner;
 
-public class Main {
+public class ex7 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Digite um número:");
